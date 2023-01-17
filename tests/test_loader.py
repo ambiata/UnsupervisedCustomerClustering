@@ -78,10 +78,7 @@ expected_beer_results = [
                    "Month": "5"
                    },
         "beer": {
-            "name": "John Harvards Cristal Pilsner",
             "beerId": "71716",
-            "brewerId": "8481",
-            "ABV": "5",
             "style": "Bohemian Pilsener"},
         "id": "0",
         "precedes": "1",
@@ -99,10 +96,7 @@ expected_beer_results = [
             "Month": "9"
         },
         "beer": {
-            "name": "John Harvards Simcoe IPA",
             "beerId": "63836",
-            "brewerId": "8481",
-            "ABV": "5.4",
             "style": "India Pale Ale &#40;IPA&#41;"},
         "id": "1",
         "precedes": "2",
@@ -121,10 +115,7 @@ expected_beer_results = [
             "Month": "9"
         },
         "beer": {
-            "name": "John Harvards Simcoe IPA",
             "beerId": "63836",
-            "brewerId": "8481",
-            "ABV": "5.4",
             "style": "India Pale Ale &#40;IPA&#41;"
         },
         "id": "2",
@@ -141,10 +132,7 @@ expected_beer_results = [
                    "Year": "2006",
                    "DayOfWeek": "3",
                    "Month": "9"},
-        "beer": {"name": "John Harvards Fancy Lawnmower Beer",
-                 "beerId": "64125",
-                 "brewerId": "8481",
-                 "ABV": "5.4",
+        "beer": {"beerId": "64125",
                  "style": "K�lsch"},
         "id": "3",
         "succeeds": "2",
@@ -152,7 +140,7 @@ expected_beer_results = [
 
 ]
 
-location_for_file = Path("fake_rate_beer.txt").absolute()
+location_for_file = Path("rate_beer_torch.txt").absolute()
 
 
 @pytest.fixture(autouse=True)
@@ -174,5 +162,7 @@ def test_load_beer_file():
         f"expected {len(expected_beer_results)}"
     for i in range(number_detected_reviews):
         expected_result = expected_beer_results[i]
-        review_value = reviews.get_rate_beer()[i]
+        review_value = reviews.get_rate_beer_raw()[i]
         unittest.TestCase().assertDictEqual(review_value, expected_result)
+
+
