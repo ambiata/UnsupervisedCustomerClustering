@@ -5,6 +5,7 @@ from random import choices
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Union, List, Tuple
+from multiprocessing import Pool
 
 import numpy as np
 from pykeen.triples import TriplesFactory
@@ -48,11 +49,9 @@ def _remove_beer_specific_details(rate_beer):
 
 class RateBeerLoader:
     def __init__(self, file_location: Union[Path, str]):
-        self._entity_id_mapper = None
         self.all_reviewers = set()
         self._file_location = Path(file_location)
-
-        self._rate_beer_processed = self._load_rate_beer()
+        self._rate_beer_processed = []
 
     def __len__(self):
         return len(self._rate_beer_processed)
@@ -188,12 +187,18 @@ class RateBeerLoaderPykeen(RateBeerLoader):
     """
 
 
-    def __init__(self, file_location: Union[Path, str]):
+    def __init__(self, file_location: Union[Path, str], accept_previous_saves:bool=True):
         super().__init__(file_location)
         self._temporary_training_location = Path("training_file.tsv").absolute()
-        self._temporary_testing_location = Path("training_file.tsv").absolute()
-        self._head_relationship_tail_representation:List[Tuple[str, str, str]] = self._create_hrt_list()
-        self._write_temporary_training_file()
+        self._head_relationship_tail_representation: List[Tuple[str, str, str]] = []
+        if accept_previous_saves and self._temporary_training_location.exists():
+            print("Found a previous save")
+            self._head_relationship_tail_representation = self._read_hrt_list()
+        else:
+            print("Beginning a new read.")
+            self._load_rate_beer()
+            self._head_relationship_tail_representation = self._create_hrt_list()
+            self._write_temporary_training_file()
         self._training_triples_factory = TriplesFactory.from_path(self._temporary_training_location)
 
     def _write_temporary_training_file(self):
@@ -205,15 +210,27 @@ class RateBeerLoaderPykeen(RateBeerLoader):
                 tsv_line = "\t".join(line)
                 training_file.write(tsv_line + "\n")
 
-    def get_rate_beer(self) -> tuple[TriplesFactory, TriplesFactory]:
+    def _read_hrt_list(self):
         """
-        Gets the triples factory of the training set and a small 5000 triples test set.
+        Reads old training files made for quicker load time.
+        """
+        with self._temporary_training_location.open("r") as training_file:
+            lines = training_file.readlines()
+            with Pool(24) as p:
+                hrt_triples = p.map(split_and_strip_line, lines)
+        print("Finished pool")
+        return hrt_triples
+
+    def get_rate_beer(self, testing_factors=False) -> Union[tuple[TriplesFactory, TriplesFactory, TriplesFactory],
+                                                             TriplesFactory]:
+        """
+        Gets the triples factory of the training set.
 
         Returns:
             The training and the first testing triples factory.
         Examples:
             loader = RateBeerLoaderPykeen("mybeer.txt")
-            tf_training, tf_testing = loader.get_rate_beer()
+            tf_training, tf_testing, tf_eval = loader.get_rate_beer()
 
             pipeline_result_complex = pipeline(training=tf_training, testing=tf_testing, model="ComplEx",
                                    training_loop="LCWA", model_kwargs=dict(embedding_dim=50))
@@ -222,11 +239,14 @@ class RateBeerLoaderPykeen(RateBeerLoader):
         """
         # Convert to TriplesFactory
         tf_testing = self.get_next_testing()
-        return self._training_triples_factory, tf_testing
+        if testing_factors:
+            tf_evaluation = self.get_next_testing()
+            return self._training_triples_factory, tf_testing, tf_evaluation
+        return self._training_triples_factory
 
     def get_next_testing(self):
         """
-        Gets the next set of testing variables.
+        Gets the next set of testing variables (5000 individuals). The paper mentions using 5000-triples for testings.
         Returns:
             A TriplesFactory of testing.
         """
@@ -239,25 +259,6 @@ class RateBeerLoaderPykeen(RateBeerLoader):
                                                          entity_to_id=self._training_triples_factory.entity_to_id,
                                                          relation_to_id=self._training_triples_factory.relation_to_id)
         return tf_testing
-
-    def _create_pykeen_entity_id_mapper(self):
-        """
-        This will process the relationships and entities to integer ids and record a mapper.
-        This is for use with the Pykeen library.
-        """
-        # Create a set of all the entities.
-        entities_seen = set()
-        for review in self._rate_beer_processed:
-            # Take each of the node values and turn them into an integer value.
-            review_values = [f"{key[:2]}{value}" for key, value in review["review"].items()]
-            beer_values = [f"{key[:2]}{value}" for key, value in review["beer"].items()]
-
-            entities_seen.union(review_values)
-            entities_seen.union(beer_values)
-
-        # Convert the entity set to an entity map.
-        self._entity_id_mapper = {entity_str: integer_value
-                                  for integer_value, entity_str in enumerate(list(entities_seen))}
 
     def _create_hrt_list(self) -> List[Tuple[str, str, str]]:
         """
@@ -350,8 +351,13 @@ def _add_triples(key, list_of_head_rel_tail, review_id, review):
     """
     for field, value in review[key].items():
         if field == "style":
-            beer_id = "id" + review["beer"]["beerId"]
+            beer_id = "bee" + review["beer"]["beerId"]
             list_of_head_rel_tail.append([beer_id, field, value])
             continue
         list_of_head_rel_tail.append([review_id, field, field[:3] + value])
     return list_of_head_rel_tail
+
+
+def split_and_strip_line(line):
+    cleaned_line = line.rstrip()
+    return cleaned_line.split("\t")
