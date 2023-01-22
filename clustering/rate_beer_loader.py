@@ -47,6 +47,7 @@ def _remove_beer_specific_details(rate_beer):
         del review["beer"]["brewerId"]
     return rate_beer
 
+
 class RateBeerLoader:
     def __init__(self, file_location: Union[Path, str]):
         self.all_reviewers = set()
@@ -59,7 +60,7 @@ class RateBeerLoader:
     def get_rate_beer_raw(self):
         return self._rate_beer_processed
 
-    def _load_rate_beer(self,) -> List[Dict[str, Union[Dict[str, str]]]]:
+    def _load_rate_beer(self, ) -> List[Dict[str, Union[Dict[str, str]]]]:
         """
         Loads and transforms raw data into a processable form following the article framework,
         with the following steps:
@@ -158,6 +159,7 @@ class RateBeerLoader:
                     rate_beer[index_of_review]["precedes"] = str(rate_beer[index_of_next_review]["id"])
         return rate_beer
 
+
 def write_to_tsv(head_relationship_tail_representation: List[Tuple[str, str, str]]) -> Path:
     """
     Writes each <head relationship tail> triple to a tsv file ready for PyKeen\
@@ -186,20 +188,37 @@ class RateBeerLoaderPykeen(RateBeerLoader):
     doesn't cause issues if you attempt to try Tensorflow approach.
     """
 
-
-    def __init__(self, file_location: Union[Path, str], accept_previous_saves:bool=True):
+    def __init__(self, file_location: Union[Path, str], checkpoint_name: str, accept_previous_saves: bool = True):
         super().__init__(file_location)
+
+        self.checkpoint_name = checkpoint_name
         self._temporary_training_location = Path("training_file.tsv").absolute()
         self._head_relationship_tail_representation: List[Tuple[str, str, str]] = []
         if accept_previous_saves and self._temporary_training_location.exists():
             print("Found a previous save")
-            self._head_relationship_tail_representation = self._read_hrt_list()
         else:
             print("Beginning a new read.")
-            self._load_rate_beer()
+            self._rate_beer_processed = self._load_rate_beer()
             self._head_relationship_tail_representation = self._create_hrt_list()
             self._write_temporary_training_file()
-        self._training_triples_factory = TriplesFactory.from_path(self._temporary_training_location)
+
+        print("Loading Triples from the path downloaded.")
+        self._training_triples_factory = self._load_training_factory()
+
+    def _load_training_factory(self):
+        from pykeen.constants import PYKEEN_CHECKPOINTS
+        import torch
+
+        previous_checkpoint = PYKEEN_CHECKPOINTS.joinpath(self.checkpoint_name)
+        entity_to_id = None
+        relationship_to_id = None
+        if previous_checkpoint.exists():
+            loaded = torch.load(previous_checkpoint)
+            entity_to_id = loaded["entity_to_id_dict"]
+            relationship_to_id = loaded["relation_to_id_dict"]
+        return TriplesFactory.from_path(self._temporary_training_location,
+                                        entity_to_id=entity_to_id,
+                                        relation_to_id=relationship_to_id)
 
     def _write_temporary_training_file(self):
         """
@@ -209,20 +228,10 @@ class RateBeerLoaderPykeen(RateBeerLoader):
             for line in self._head_relationship_tail_representation:
                 tsv_line = "\t".join(line)
                 training_file.write(tsv_line + "\n")
+        print("Written Temporary File")
 
-    def _read_hrt_list(self):
-        """
-        Reads old training files made for quicker load time.
-        """
-        with self._temporary_training_location.open("r") as training_file:
-            lines = training_file.readlines()
-            with Pool(24) as p:
-                hrt_triples = p.map(split_and_strip_line, lines)
-        print("Finished pool")
-        return hrt_triples
-
-    def get_rate_beer(self, testing_factors=False) -> Union[tuple[TriplesFactory, TriplesFactory, TriplesFactory],
-                                                             TriplesFactory]:
+    def get_rate_beer(self) -> Union[tuple[TriplesFactory, TriplesFactory, TriplesFactory],
+                                     TriplesFactory]:
         """
         Gets the triples factory of the training set.
 
@@ -237,28 +246,7 @@ class RateBeerLoaderPykeen(RateBeerLoader):
             pipeline_result_trans_e = pipeline(training=tf_training, testing=tf_testing, model="TransE",
                                    training_loop="LCWA", model_kwargs=dict(embedding_dim=50))
         """
-        # Convert to TriplesFactory
-        tf_testing = self.get_next_testing()
-        if testing_factors:
-            tf_evaluation = self.get_next_testing()
-            return self._training_triples_factory, tf_testing, tf_evaluation
         return self._training_triples_factory
-
-    def get_next_testing(self):
-        """
-        Gets the next set of testing variables (5000 individuals). The paper mentions using 5000-triples for testings.
-        Returns:
-            A TriplesFactory of testing.
-        """
-        random_choices_indices = choices(range(len(self._head_relationship_tail_representation)), k=5000)
-        testing_choices = []
-        for choice in random_choices_indices:
-            chosen_triple = self._head_relationship_tail_representation[choice]
-            testing_choices.append(chosen_triple)
-        tf_testing = TriplesFactory.from_labeled_triples(np.array(testing_choices),
-                                                         entity_to_id=self._training_triples_factory.entity_to_id,
-                                                         relation_to_id=self._training_triples_factory.relation_to_id)
-        return tf_testing
 
     def _create_hrt_list(self) -> List[Tuple[str, str, str]]:
         """
@@ -270,6 +258,7 @@ class RateBeerLoaderPykeen(RateBeerLoader):
         """
         head_rel_tail = []
 
+        assert self._rate_beer_processed, "The graph list is empty."
         for review in self._rate_beer_processed:
             review_id = review["id"]
             head_rel_tail = _add_triples("review", head_rel_tail, review_id, review)
@@ -281,8 +270,15 @@ class RateBeerLoaderPykeen(RateBeerLoader):
             if "succeeds" in review.keys():
                 triple = [review_id, "suc", review["succeeds"]]
                 head_rel_tail.append(triple)
-
         return head_rel_tail
+
+
+class RateBeerLoaderLSTM(RateBeerLoader):
+    def __init__(self, file_location: Union[Path, str]):
+        """
+        This requires load in the data turn the graph into sequences for each person and then load them.
+        """
+        super().__init__(file_location)
 
 
 def _get_line_key_value(line, category):

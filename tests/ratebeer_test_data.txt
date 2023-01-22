@@ -1,0 +1,2365 @@
+beer/name: John Harvards Simcoe IPA
+beer/beerId: 63836
+beer/brewerId: 8481
+beer/ABV: 5.4
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1157587200
+review/profileName: hopdog
+review/text: On tap at the Springfield, PA location. Poured a deep and cloudy orange (almost a copper) color with a small sized off white head. Aromas or oranges and all around citric. Tastes of oranges, light caramel and a very light grapefruit finish. I too would not believe the 80+ IBUs - I found this one to have a very light bitterness with a medium sweetness to it. Light lacing left on the glass.
+
+beer/name: John Harvards Simcoe IPA
+beer/beerId: 63836
+beer/brewerId: 8481
+beer/ABV: 5.4
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1157241600
+review/profileName: TomDecapolis
+review/text: On tap at the John Harvards in Springfield PA.  Pours a ruby red amber with a medium off whie creamy head that left light lacing.  Aroma of orange and various other citrus.  A little light for what I was expecting from this beers aroma...expecting more from the Simcoe.  Flavor of pine, orange, grapefruit and some malt balance.  Very light bitterness for the 80+ IBUs they said this one had.
+
+beer/name: John Harvards Cristal Pilsner
+beer/beerId: 71716
+beer/brewerId: 8481
+beer/ABV: 5
+beer/style: Bohemian Pilsener
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 958694400
+review/profileName: PhillyBeer2112
+review/text: UPDATED: FEB 19, 2003 Springfield, PA. I've never had the Budvar Cristal but this is exactly what I imagined it to be.  A clean and refreshing, hoppy beer, med bodied with plenty of flavor.  This beer's only downfall is an unpleasant bitterness in the aftertaste.
+
+beer/name: John Harvards Fancy Lawnmower Beer
+beer/beerId: 64125
+beer/brewerId: 8481
+beer/ABV: 5.4
+beer/style: K�lsch
+review/appearance: 2/5
+review/aroma: 4/10
+review/palate: 2/5
+review/taste: 4/10
+review/overall: 8/20
+review/time: 1157587200
+review/profileName: TomDecapolis
+review/text: On tap the Springfield PA location billed as the "Fancy Lawnmower Light".  Pours a translucent clear yellow with a small bubbly white head.  Aroma was lightly sweet and malty, really no hop presence.  Flavor was light, grainy, grassy and malty.  Just really light in flavor and aroma overall. Watery.
+
+beer/name: John Harvards Fancy Lawnmower Beer
+beer/beerId: 64125
+beer/brewerId: 8481
+beer/ABV: 5.4
+beer/style: K�lsch
+review/appearance: 2/5
+review/aroma: 4/10
+review/palate: 2/5
+review/taste: 4/10
+review/overall: 8/20
+review/time: 1157587200
+review/profileName: hopdog
+review/text: On tap at the Springfield, PA location. Poured a lighter golden color with a very small, if any head. Aromas and tastes of grain, very lightly fruity with a light grassy finish. Lively yet thin and watery body. Oh yeah, the person seating me told me this was a new one and was a Pale Ale even though the menu he gave me listed it as a lighter beer brewed in the Kolsh style.
+
+beer/name: John Harvards Vanilla Black Velvet Stout
+beer/beerId: 31544
+beer/brewerId: 8481
+beer/ABV: -
+beer/style: Sweet Stout
+review/appearance: 5/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1077753600
+review/profileName: egajdzis
+review/text: Springfield, PA location... Poured an opaque black color with a creamy tan head and nice lacing.  Strong vanilla and roasted malt aroma.  Creamy taste of coffee, chocolate and vanilla. The bartender told me this was an imperial stout at about 8%.  She didn't convince me, there was no alcohol to be found, and it was sweet as hell!  But still good.
+
+beer/name: John Harvards American Brown Ale
+beer/beerId: 71714
+beer/brewerId: 8481
+beer/ABV: -
+beer/style: Brown Ale
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1176076800
+review/profileName: hopdog
+review/text: On tap at the Springfield, PA location. Listed on the beer menu as "James Brown Ale". Had the regular and cask version. Poured a deep brown color with an averaged sized off white head (cask had a huge head). Ill stop on the cask version here as I found it to smell and taste like buttered popcorn. The regular had aromas of nuts, light chocolate, and roast. Taste of chocolate, nuts, very light roast and caramel.	 Tasted on 9/7/2006 and moved over as part of the John Harvard clean up.
+
+beer/name: John Harvards Grand Cru
+beer/beerId: 71719
+beer/brewerId: 8481
+beer/ABV: 7
+beer/style: Belgian Ale
+review/appearance: 2/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1107302400
+review/profileName: JFGrind
+review/text: Sampled @ the Springfield, PA location.   Candi Sugar dominates this Belgian Ale.  Beer was on the flat side but had a nice crimson color.   Enjoyable Belgian Ale, I did not expect John Harvards to have it in its line-up.
+
+beer/name: John Harvards Grand Cru
+beer/beerId: 71719
+beer/brewerId: 8481
+beer/ABV: 7
+beer/style: Belgian Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1102896000
+review/profileName: egajdzis
+review/text: Springfield... Poured a hazy copper color with a medium sized, off white head that left spotty lacing on the glass.  Aroma of yeast, dried fruits, clove, banana, and cherries, with light roastiness.  Aroma was very dubbelish.  Herbal taste of dark fruits, yeast and alcohol was barely noticed.  Slick mouthfeel.  Could have been more flavorful.
+
+beer/name: John Harvards Grand Cru
+beer/beerId: 71719
+beer/brewerId: 8481
+beer/ABV: 7
+beer/style: Belgian Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 17/20
+review/time: 996105600
+review/profileName: PhillyBeer2112
+review/text: UPDATED: FEB 19, 2003 Springfield, PA. Darkish copper colored, with no head -	probably poured like that on purpose.	Served inappropriately at about 40 deg	F.  This beer was cold.  It tasted	fine at that temp but I had to let it warm up 	for awhile.  It was worth the wait, as a	very interesting and complex character developed.	Very phenolic and funky - with a strong ester of	bubblegum.  Also a little clove or some kind of 	spice.  Strong but not overwhelming at all.  Surpisingly	easy to drink.
+
+beer/name: John Harvards Belgian Tripel
+beer/beerId: 71715
+beer/brewerId: 8481
+beer/ABV: 8.5
+beer/style: Abbey Tripel
+review/appearance: 4/5
+review/aroma: 4/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 11/20
+review/time: 958694400
+review/profileName: PhillyBeer2112
+review/text: UPDATED: FEB 19, 2003 Springfield, PA. Sharp and cloyingly sweet.  The alcohol presence becomes more and more noticeable.
+
+beer/name: John Harvards Cassis Wit
+beer/beerId: 1470
+beer/brewerId: 8481
+beer/ABV: -
+beer/style: Belgian White &#40;Witbier&#41;
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 958694400
+review/profileName: PhillyBeer2112
+review/text: UPDATED: FEB 19, 2003 Springfield, PA. Interesting example.  The fruit flavors are very apparent, but the natural mildness of the currants keep the sweetness in check.  These flavors blend well with the white beer base.
+
+beer/name: John Harvards Dr. Jekyll and Mr. Mild
+beer/beerId: 7721
+beer/brewerId: 8481
+beer/ABV: 3.8
+beer/style: Mild Ale
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 990576000
+review/profileName: PhillyBeer2112
+review/text: From Springfield PA:  nice smooth	malty flavor, mildy fruity, but served	via nitro and thru a restrictor disc	(stout tap).  Thus, overly creamy and lacking	some of its original flavor.  I could tell there	was a pretty good beer in there.  Aroma difficult	to detect.
+
+beer/name: John Harvards Yin Yang Lager
+beer/beerId: 64126
+beer/brewerId: 8481
+beer/ABV: 4.5
+beer/style: Pale Lager
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1157587200
+review/profileName: TomDecapolis
+review/text: On tap at Springfield location.  Pours a translucent golden amber with really no head.  Aroma of caramel, grains and light hops.  Flavor was malty with a light hop presence.  Really kind of non-descript overall.
+
+beer/name: John Harvards Yin Yang Lager
+beer/beerId: 64126
+beer/brewerId: 8481
+beer/ABV: 4.5
+beer/style: Pale Lager
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 9/20
+review/time: 1157587200
+review/profileName: hopdog
+review/text: On tap at the Springfield, PA location. Poured a medium and see through orange color with a small sized off white head. Aromas and tastes on the weak side and contained some citrus, caramel, and grains. Body was thin and watery.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1249257600
+review/profileName: JJClark
+review/text: Handbottled from trade wth Sprinkle. Pours a nice dark copper color with medium size off white head. Aroma of bourbon, malt , hops and oak. Slight smokey flavor with a bourbon taste in the initial sip. Flavors of malt, vanilla and hops still remain although none dominate the brew. Taste is still very enjoyable with a smooth and balanced finish.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1245283200
+review/profileName: CaptainCougar
+review/text: On tap at the Great Taste of the Midwest (8/9/08): Pours a transparent bright copper orange with an airy white head.  Aroma of sweet toasty pale malt and sweet light fruitiness with a good resiny piny hop character.  Body starts with decent fullness and sweet caramel malts with good balance of hop flavor and bitterness.  Finishes smooth and bittersweet, nicely aged and balanced.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1232841600
+review/profileName: StFun
+review/text: UPDATED: JUL 7, 2009 On tap. Interesting experiment, but I liked regular Hopula better. Pours a dark amber with an off white head. Aroma is slightly wood and hops, but mostly bourbon. Flavor is everything I loved about Hopula, but with too much booze. Some nice vanilla notes, but bourbon constantly overpowers the Hopula. Just not my style, but would be very interesting if they reused the barrels.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 4/5
+review/taste: 4/10
+review/overall: 13/20
+review/time: 1222646400
+review/profileName: MI2CA
+review/text: On cask at BI - Aroma of the Hopula Play-Doh hops and malt with lots of oak, vanilla and bourbon.  Pours dark mahogany with a medium lasting head and great lacing.  Flavor is strong bourbon, too strong.  The base beer is hidden under there somewhere but is way overpowered.  I had trouble getting it down to be honest.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1219536000
+review/profileName: vyvvy
+review/text: GTMW 08 on cask - Pours bronze orang with a minimal head.  The aroma has lots of vanilla and some bourbon and toasty malt.  Medium sticky body with light carbonation.  The flavor starts with the aroma traits with more caramel malt and earthy hops.  The finish has vanilla and okay dominating everything.  This kind of beer is just not down my alley.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1219017600
+review/profileName: kp
+review/text: Name: BA Count Hopula	Date: 08/09/2008	Mode: Draft	Source: Brewfest, Great Taste		Appearance: clear amber, frothy beige head, 	Aroma: sweet caramel malt aroma with liquid hops, 	Flavor: sweet bourbon flavor, vanilla sweetness, light balancing hops, 	Overall: a pale bourbon ale, 		Aroma: 7/10; Appearance: 6/10; Flavor: 7/10; Palate: 6/10; Overall: 13/20	Rating: 3.3/5.0Drinkability: 7/10	Score: **+/4
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1218758400
+review/profileName: xmarcnolanx
+review/text: Aroma is sweet bourbon vanilla. Taste is sweet, hoppy, dank, and vanilla.  	Flavor was sweet, and earthy, as Ughsmash mentions.  	Scant notes as I was not impressed.
+
+beer/name: Barley Island Barrel-Aged Count Hopula
+beer/beerId: 91592
+beer/brewerId: 3228
+beer/ABV: 8
+beer/style: Imperial/Double IPA
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1218499200
+review/profileName: Ughsmash
+review/text: Cask at GTMW.  Poured coppery-amber with a loose cap of beige head.  The aroma picked up an interesting interplay of juicy floral notes, sweet bourbon, and vanilla.. unfortunately interesting in a way that they didnt really go together.. muted the IIPA-ness greatly.  The flavor was on the sweet side with restrained floral and earthy bitterness (likely due to aging).. lots of barrel again with sour bourbon and oak all over.. finished bourbon-ey with even more barrel.  Too sour on the palate, again with too much of the barrel.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1273795200
+review/profileName: fiulijn
+review/text: Courtesy of Kim, handbottledCloudy amber color; creamy head. Creamy aroma, cheesy; berries, a bit sour. Weak body, fairly sour and astringent, a bit lemony. The astringency is the only interesting factor here.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1272844800
+review/profileName: Ungstrup
+review/text: Handbottled. A dark amber beer with a white head. The aroma ahs notes of malt, caramel, over ripe fruits, and hops. The flavor is sweet with notes of over ripe fruit, malt, and light notes of wood, leading to a dry finish. Thanks KimJohansen for sharing.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1272672000
+review/profileName: yespr
+review/text: Handbottled, courtesy of KimJohansen. Pours hazy orange with a small white head. Aroma is fruity and slight acidic fruity. Citric and fruity fruity flavoured. Mild mouldy and fruity. Light spiced and fruity into a dry finish.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 15/20
+review/time: 1272067200
+review/profileName: Theis
+review/text: Handbottle at Paps 23-Apr-2010 - Thanks. Cloudy amber - caramel, fruity, buttery, berries, light sourish, nutty, fatness, light diacetyl notes, light bretty.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 13/20
+review/time: 1272067200
+review/profileName: Dedollewaitor
+review/text: Bottle @ Paps. Thanks. Pours unclear amber with a small creamy head and lacings. Nose is quite vinous with notes of caramel and fruit. Flavor is tart and fruity with brett and a bit of caramel.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1272067200
+review/profileName: joergen
+review/text: Handbottled form tap, at Paps.	Hazy golden coloured with a small white head.	Fruity aroma of spices and caramel with notes of butter.	Fruity flavour of caramel, hops and grass with notes of wallonian barnyard.	Fruity finish.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1271980800
+review/profileName: KimJohansen
+review/text: Hazy orange with a medium beige head. Sour aroma with lacto, brett, sour berries and toasted malt. Sour flavour with brett, toasted malt, sourish berries and breadish notes. Finished sourish and dry.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1271980800
+review/profileName: madsberg
+review/text: Bottled. Amber coloured. Unclear. Dense beige head. Aroma of sourness, fruits, grape. Flaovur of sweet sourness, citrus, fruits, light spice. Medium bodied. Dry sour grapyness in the end. thx Kim for sharing.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1271980800
+review/profileName: Papsoe
+review/text: Handbottle 35,5 cl. Courtesy of KimJohansen. Pours a cloudy amber with a dense and lacing off-white head. Lovely aroma of Brett and wood. Medium body, very dry and fruity with an astringent driness rather than sour - lets call it slightly tart. Again ends very dry with quite some bitterness. 230410
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 17/20
+review/time: 1266019200
+review/profileName: MI2CA
+review/text: On tap at Noblesville brewery - Aroma is pungent with lots of brett and oak.  Flavor brings forward some toasted malts but quickly falls back to doughy yeast, oak and brett giving it a nice funky sour finish.  Palate is tart and creamy.  A fantastic sour that would draw some attention if it got out of the brewery.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 17/20
+review/time: 1263168000
+review/profileName: StFun
+review/text: I was surprised by this one. A really nice local sour beer. Pours a great looking brown with a slight red hue. Not much head, but a good amount of lacing. Aroma is nutty, with cherries and a tartness to it. Very earthy. Flavor is nice and sour, lots of red fruits and nuts, with just a hint of yeast. The wood really comes into play here, and works nicely with the other elements. This one is tasty for sure.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1260489600
+review/profileName: tjthresh
+review/text: UPDATED: DEC 12, 2009 Pours murky brown with a small brown head. Good bretty nost with some dusty malt. Brett and some oak take the flavor to a really wonder full place. Medium full body with a dry finish. Really a super unexpected treat.
+
+beer/name: Barley Island Dirty &quot;Old&quot; Helen Sour Ale
+beer/beerId: 114513
+beer/brewerId: 3228
+beer/ABV: -
+beer/style: Sour Ale/Wild Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 9/10
+review/overall: 15/20
+review/time: 1260489600
+review/profileName: awiseman01
+review/text: Had this on tap last night at new Barley Island, broad ripple location. Pours medium brown with light tan head that fades. Nose is sweet brown malt and slightly sour brett. Taste is smooth, clean brown style malt with a perfectly balanced sour profile bringing in the brett flavor. I was skeptical of the at first, but it came out quite nicely IMHO. On the lighter side in terms of sour intensity, but the overall taste is very pleasant.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 2/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1197417600
+review/profileName: BBB63
+review/text: Bottle and served in my big old Tripel Karmeliet glass: Deep brown and has a mostly lasting frothy bubbles with spotty lace. The aroma has notes of bakers chocolate, toasty and charred malt, prune and starfruit esters, star anise, floral and herbal hops, a hint of rubber and pipe tobacco. The taste has a Schwarzbier like dry toasty black malt character with a ripened fruity backbone. A bit sugary in midesection and anise spice all over the place. Peaty bite and a hint of sea salt too. The mouth feel is the weak part of the beer, sort of just sits there on the palate offering nothingness. A good beer for what it is but I think I would rather have a New Belgium 1554 first.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1196985600
+review/profileName: Cornfield
+review/text: This pours a clear chestnut body with a slender beige ring in place of a head.  No lacing.  The aroma is lightly roasted malt, faint floral scents, dark brown sugar, and licorice.  All remain in the flavor, which is a bit thin, the body being somewhat watery, with the addition of a soft dark fruitiness.  The aftertaste is one of licorice, not overbearing and annoying, but subtle.  Not bad.<font size=-4><a href=http://www.ratebeer.com/Places/ShowPlace.asp? Liquors, Porter, IN<font size=-1>
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1196899200
+review/profileName: merlin48
+review/text: 22 oz bottle pours a dark chestnut body with a one inch khaki head. Aroma is subtle, with perfumey florals, anise, and a sweet maltiness. Medium body supports some dark roasty notes, candy sugar, anise, dark fruits, and floral hops. Nicely complex and a good sipper.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1190073600
+review/profileName: MI2CA
+review/text: Pints from BI at release party - This is going to be BIs entry for the ProAm category at GABF - Aroma is yeasty bubblegum and dark malts with a floral hint.  Pours very dark brown with a medium head and good lacing.  Flavor is roasted dark malts, bubblegum yeast, candi sugar and a touch of hops.  Palate is clean and a little sticky.  Hides alcohol well and is overall an easy drinking tasty brew.  Soon to be released in 22oz bottles.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1189123200
+review/profileName: WabashMan
+review/text: A nice, malty ale with a definite Belgian quality to it, this one had an almost black appearance, lightly sweet nose, and a fairly light (medium at most) mouthfeel.  Not too heavy, and good with the bar food.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 9/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1300924800
+review/profileName: paultheguru
+review/text: Poured into a snifter. Sinister Minister pours an extremely rich mahogany, with a slightly tan head, with a low retention rate, which leads to decent lacing. Aromas are of sweet malts, raisins, candi sugar, spices like cinnamon, nutmeg and clove. Sweet malty taste, spices, fall fruits, molasses. It kind of reminds me of a less carbonated Trois Pistoles. Crisp, clean and smooth mouthfeel. Not as carbonated which is nice. Very good drinkability. This is the first pro-am I have had, and it is a great one to start with.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 12/20
+review/time: 1266278400
+review/profileName: bu11zeye
+review/text: (22oz bottle, 2007 vintage)  Pours a clear amber body with a small off-white head.  Aroma of roasted malt, Belgian yeast, banana, chocolate, and caramel.  Flavor of yeast, roasted malt, caramel, chocolate, and nuts.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1264204800
+review/profileName: thirdeye11
+review/text: ( 22oz bottle vintage of 2007 thanks to bu11zeye) Pours clear dark brown with nice lace and oily bubbles in the head. Nose of bready yeast and not much else. Taste of unsweet chocolate, bread with a tingly/creamy finish. Perhaps slightly oxidized.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 3/10
+review/overall: 14/20
+review/time: 1260057600
+review/profileName: travita
+review/text: Bottle thanks to bu11zeye.  The look is clear, light white head, the color is brown.  The smell is sugary, caramel, and malts.  The taste is malts, roasty, and coffee.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1258848000
+review/profileName: mar
+review/text: 2007 bottle thanks to bu11zeye.  chocolate brown with an off white head.  chocolate and a familiar belgian yeast scent.  decent on the palate with a belgian yeast fruity flavor.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1258588800
+review/profileName: kramer
+review/text: 22 oz botle.  Pours a clear chestnut brown body with a small fizzy light brown head.  The nose is nutty and yeasty, with some light coffee and dark fruits.  Lots of Belgian yeast character here in the flavor.  Some dark fruits, heavy yeast, a little coffee on the back end, and finishes off with a bit of peppery alcohol.  Medium bodied with a somewhat watery texture and fizzy carbonation.  I wish that this were a little softer and rounder feeling.  OK beer, but nothing great.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1257638400
+review/profileName: Cavie
+review/text: Bottle courtesy of bu11zeye. Clear reddish pour. Dusty malts in the aroma. Tastes of dry malts and clay flavoring. Earthy tones.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 13/20
+review/time: 1257465600
+review/profileName: blutt59
+review/text: bottle, thanks to bu11zeye, dark brown with white foam, fruity wheat aroma, flavors of cherry, wheat, pumpernickel, vanilla
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 4/10
+review/overall: 13/20
+review/time: 1257465600
+review/profileName: BMan1113VR
+review/text: 2007 Bottle thanks to bu11zeye. Pours with a deep brown body and a fading tan head. Aroma of brown sugar, light meat, fruity esters and chocolate. Taste is estery wheat, wet dog and vegital. Light bubbles.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 2/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1248739200
+review/profileName: Maltajo
+review/text: 22Oz bottle, thanx to DChmelas super sixpack shipper. Bewwwww! 	Great pure darkness cascading with a creamy fluffy head. Great stuff.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1248220800
+review/profileName: jason
+review/text: Bottle. Thanks to a Secret Santa - I think last summer. Poured a dark body with thin head. aroma is dried fruit, earthy. Flavor has a light chocolate and caramel taste, yeasty and slightly bitter.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1244937600
+review/profileName: CaptainCougar
+review/text: Bottle sampled at Noog Four-0 5/31/08 courtesy of heemer77: Pours a transparent dark copper with a thin, wispy white head.  Aroma of sweet toasty dark caramel and a touch of milk chocolate and Belgian yeast.  Body starts lightly sweet and toasty dark caramel malty with mild complexity and some drier doughy bready balance in the finish.  A nice dark Belgian brew.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 2/5
+review/taste: 6/10
+review/overall: 10/20
+review/time: 1243555200
+review/profileName: bitbucket
+review/text: Pours clear dark brown with  a lacy off-white head. Light body and medium carbonation. Light taste of toast and coffee, I think this beer was overwhelmed by what I was drinking before it.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1241913600
+review/profileName: dchmela
+review/text: Bottle courtesy STFun. Pours black with hints of red and a thin white head. Sweet malt, roasty grain and dark fruit aroma. Smooth crisp malt, sweet dark fruit taste. Hard beer to classify, but tasty nonetheless.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 10/20
+review/time: 1238025600
+review/profileName: scrizzz
+review/text: Dark brown, notes of pine.  meh.  Little sweaty, spun and nowhere all at once.  Rhetorical.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1237852800
+review/profileName: durhambeer
+review/text: Thanks, JCB, for sharing a bottle.  Near black pour with bubbly off white head.  Chalky palate. Roasty malty flavor with not much yeast action.  Similar to dubbel.  Somewhat thin.  Okay.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1237852800
+review/profileName: TURDFERGUSON
+review/text: Bottle shared by Jason. Thanks dude!  Pretty uninspiring "Belgian" here. Roasty, coffee, light cocoa, nuttiness, slightly water,  weak yeast character. Had this towards the end of the night, but it didnt leave a lasting impression.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 15/20
+review/time: 1237420800
+review/profileName: ucusty
+review/text: Thanks to JCB for sharing one!  Pours a clear dark reddish brown with minimal head. Nose is light coffee, roasted barley, and chocolate.  This share many similarities to a belgian dubbel
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 16/20
+review/time: 1237420800
+review/profileName: emacgee
+review/text: Thanks to JCB for sharing. Pours a dark brown with a light tan head. The nose is rusty, grainy, chocolate, mild coffee, earthy. The flavor is a tad watery, mildly chocolaty, roasty, some yeast character.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 14/20
+review/time: 1235952000
+review/profileName: Dorwart
+review/text: About a half inch thick head of rather large fluffy beige bubbles.  Light milk chocolate, roasted malts. a hint of dark fruit and a bit of musty wood.  Color is a very dark brown.  Flavor is a little weaker than expected but what is there is quite good.  Dark roasted grains, more cocoa, pasty malts, some burnt biscuits and an underlying tartness.  Little bit dry on the palate.  Light alcohol presence and warming.  Finishes roasty and malty.  A decent Belgian Ale.  Thanks to **** for this one.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1233360000
+review/profileName: FlacoAlto
+review/text: 2007 Bottle Date; Sampled January 2009	An average pour into my 25cl tulip glass leaves me with three-fingers of lightly browned, light tan colored head.  The beer is quite a dark brown, almost black color that shows a brilliantly clear, rich ruby hue to it when held up to the light.  The aroma has a fruitiness to it up front, but then has a meaty malt character to it that is a bit surprising to me.  Aromas of toasted, roasted, almost smoky, dark malt a deep toasted nuttiness (almost like peanut butter).  After a bit the nutty note in the finish seems like it has gone a little rancid.  The aroma on this is not bad, but it is really interesting, I have never quite smelled a beer like this before.		Lightly sweet, again with a fruit note that reminds me of prunes and raisins.  The beer picks up a hint of tartness in the middle that continues to accentuated the fruit flavors.  This beer feels a little light as it first hits the tongue, but it picks up a viscousness as it rolls across the tongue and actually finishes with a fair amount of heft.  That interesting, slightly rancid nuttiness of the aroma is much subdued in the flavor; there is a touch of it here that is almost more of an oral-nasal sense than anything.  Dark malt notes tend to temper that dark fruit notes a bit and also provide a touch of burnt grain bitterness as well as a touch of burnt acidity and perhaps some tannic astringency.  This could use some spiciness to it; it is somehow Belgian-style and some fermentation spiciness would provide a lot more balance to this beer.  As the beer warms up the fruitiness begins to take on a cola like edge.		Other than the fact that the aroma is really starting to annoy me, this isnt a bad beer; I keep on thinking I should be able to exactly identify this note in the aroma, but I cant quite place my finger on it.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 12/20
+review/time: 1231632000
+review/profileName: alexsdad06
+review/text: 22 oz. bottle.  Pours brown with garnet highlights and a medium sized beige head.  The aroma has moderate sweetness, yeast, a mix of fruits, and lightly spicy.  The flavor had bready malts, slightly fruity, dusty, yeast, but there seems to be something wrong.  I wasnt sure how old this was, but it appears as if this is in a downward spiral.  Medium bodied.  I should try this again when I know its fresher.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1229040000
+review/profileName: after4ever
+review/text: 22. 2007. Thanks, Yem! Pours black with a wispy little white head. Big brown bread, roast, and toast nose. Nice! Creamy medium body, very light carb. Toast, roast, and brown bread go round again on the mid-palate, with a mild note of weak coffee crossing the palate at the finish. Solid, stable, well-made little beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1228608000
+review/profileName: JCB
+review/text: 22oz bottle from StFun. Thanks, Josh. Nice brown pour, with some glinting red in the appearance and a lively carbonation. The nose was rich and very fruity, and this more or less characterizes the taste as well. I was expecting something with more bitterness, and some roasted flavors. This actually comes across far more like a dubbel than anything else, though certainly an enjoyable one. Lively mouthfeel, tasty blend of ripe dark fruits and malts, long finish. Tasty beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1223164800
+review/profileName: otakuden
+review/text: Black ales and black lagers are elusive specimens, so I am very pleased to partake of a Belgian inspired black ale. Into her dark depths do I prepare to surrender my soul.		her sinisterly seductive liquid fills my glass a dark brown with slight light glinting through along the sides of the glass; a faint amber hue. Not too much head, but an almost immediate brussels lace trail sticks to the sides of my glass. Her nose is lightly sweet with yeast and fresh fall apples. A touch of spice adds to the mix. My first quaff is full of bready chewiness and a smooth, slightly oily body. Faint effervescence prevents Sinister Minister from being too thick and overly cloying, though she definitely has a full body and mouthfeel. a bit more of a sweet and sour twang in the palate as opposed to the nose, leaving an almost lingering sour yeast pucker in the finish. A touch of banana notes alongside the crisp fall apples and spice.		Overall, an intriguing brew. The Belgian style element really changes this black ale from something ordinarily extraordinary into something unusually extraordinary. A bit confused I think as I was left not quite sure the overall impression the Barley Island Sinister Minister Belgian Black Ale was going for, but I do know I enjoyed it. Good; could maybe use a wee bit of fine-tuning, but not much. I would drink it again.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 9/20
+review/time: 1222128000
+review/profileName: hopscotch
+review/text: UPDATED: SEP 30, 2008 Bottle... Post RBSG 08 O-Town/Vero Beach Throwdown Chapter 8...  Clear, deep, dark mahogany ale with a small, creamy, khaki head. Decent retention. The fruity, estery aroma provides notations of chocolate and banana. Medium-bodied with lively carbonation. Perfectly balanced, but theres just not much going on. Finishes bland and watery. Its not my cup of tea, but thanks to SoLan for providing the bottle of beer!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1222041600
+review/profileName: Sparky
+review/text: Bomber courtesy of StFun.  Pours a clear dark reddish brown with minimal head.  Nose is light coffee, mild cocoa, roasted barley and smoke.  Taste is pretty much like the aroma, except theres a dark fruitiness right as you take a sip.  Lighter, prickly mouth feel.  Not bad  thanks Josh!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1221264000
+review/profileName: jsquire
+review/text: Dark amber color out of the bottle with a fizzy beige head that left quickly.  Thin, watery sweet nose.  Not a lot of character in here, but nothing really offensive.  Thin caramel sweetness, some roasted grains and faint chocolate.  Kind of boring.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1220400000
+review/profileName: hopdog
+review/text: 22oz bottle acquired in trade with Sephiroth (thanks!). Poured a deeper reddish brown color with an averaged sized off white head. Aromas of roast, some chocolate, toasted grains, and light coffee. Tastes of licorice, chocolate, caramel, chocolate, lighter roast, and some spices.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1219190400
+review/profileName: jcwattsrugger
+review/text: @Richmond/Williamsburg Gathering-22 oz bottle that I brought-pours a foamy tan head and brown color.  Aroma is oak, medium malt.  Taste is oak/walnut, medium malt-chocolate.  Semi-dry.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1219104000
+review/profileName: smith4498
+review/text: Bottle courtesy of SoLan. Pours black with tan head. Roasted malt and dark fruit aromas. Flavors of dark malts and slight hops. Medium body with lively carbonation.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1218412800
+review/profileName: Immy
+review/text: UPDATED: MAY 8, 2009 Richmond Summer Gathering. Bomber courtesy of jcwattsrugger. Clear, deep brown with a thin, ringed tan head. Mild coffee and chocolate nose, yeasty, seemed a bit infected to me, with some sour nut notes. Didnt really seem to crop up in the flavor. OK - Id like to get another one of these and re-rate.		Re-rate, Daytona 500 tasting. 750 from DragonStout, IIRC. Much better this go-round, none of the sour nut I noted before. Rate reflects this bottle.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1218326400
+review/profileName: mgumby10
+review/text: Courtesy SoLan.  Pours dark brown, with a small off white head.  Smells a bit Belgian, some candy sugar, dark malts, and molasses make up the nose.  The flavor consists of some spices and a sweet malty presence.  Got a bit of graham cracker and caramel in there as well.  Kind of uniqu, but wasnt really getting me too exicted.  Certainly drinkable, but lacking a bit of something.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1218240000
+review/profileName: TheBeerGod
+review/text: Bottle at the Williamsburg Gathering courtesy of jcwattsrugger. Lightened black pour. Almost almost more a dark brown. Nose is soft coffee-ish notes, mild chocolate, light cocoa, toasted malts, soft grain and yeast. Taste echoes the coffee-ish notes, cocoa, yeast notes, grains, odd spice/herbs and toasted malts. Body is light-medium. Mild carbonation. Ends with more cocoa, softer chocolate, spices/herbs, light yeast, toasted malts. Tasty!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1217980800
+review/profileName: Drake
+review/text: 22 oz. 2007 bottle courtesy of jcwattsrugger at the 2008 Richmond Summer Gathering in Williamsburg. Thanks John! Rating 666. Drk brown pour with a light brown head. Aroma of roasted malts, caramel and dark fruits. Very fruity taste with stone fruit notes and some nuttiness. Someone else in the group thought there were infection signs, but I didnt see any. Medium bodied.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1217894400
+review/profileName: LooseCannon
+review/text: 22oz bottle, Thanks to jcwattsrugger at Richmond Summer Gathering @ Williamsburg. Pours dark brown in color with tan head. Aroma roasted malt and chocolate. Taste of roasted malt, dark chocolate and light licorice with dry finish.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1217203200
+review/profileName: decaturstevo
+review/text: Deep brown pour with tan head and lace. A dark brown sugar and toasted malt aroma. A toasted malt and hints of dried fruit. A bit thin and watery. Not much above average but very drinkable.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 2/5
+review/taste: 8/10
+review/overall: 17/20
+review/time: 1215734400
+review/profileName: EithCubes
+review/text: Bomber from Crown.  Herbal nose with heather and some tire air.  Pours the deep brown of a porter, with a short light brown head.  Taste is dry and roasty but still has those herbal notes (which endure into the aftertaste, where they approach juniper and give a slightly chalky residue) and flashes of fruity sweetness.  Dark chocolate, loads of anise, licorice, but very little of the latter.  Body is watery and a bit foamy, slightly tangy but without acidity.  Refreshing and dangerously easy to drink!  Smooth and subtle, a good bridge between new and old, one of the more interesting finds of this year!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1214265600
+review/profileName: thedm
+review/text: This bottled brew from Indianapolis poured a small sized head of fine to medium sized foamy with a frothy top tan colored mostly lasting bubbles that left behind a transparent but very dark brown colored typically carbonated body.  The aroma was of mile brown and dark  malts.  The mouth feel was tingly from start to finish.  The flavor contained notes of dark malts and hops.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1213920000
+review/profileName: Tmoney99
+review/text: Bottle 2007 from Keg Liqour. Poured a hazy brown color with an average off-white head that mostly lasted with good lacing. Good aroma of roasted dark chocolate malt. Medium body with smooth dry texture. Good roasted bittersweet flavor with a complex bittersweet finish of medium duration. Interesting complex brew.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 5/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1212969600
+review/profileName: brentfeesh
+review/text: Sampled at Noog4.  Dark Chestnut pour with a light head.  Bright and bubbly aroma with Belgian funk and a touch of roasted grain.  Nice.  Very drinkable.  Its light with a well balanced combination of grain, hay, funk, and roasted grain.  Carbonated to the point that it exaggerates its refreshing properties.  Light-medium body.  This is an easy drinker.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1212883200
+review/profileName: heemer77
+review/text: I got this one in Indianapolis. The body was dark brown. The aroma was caramel and chocolate with some pancakes. The taste was pancakes with coffee and chocolate. Well made, but a little boring.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1212796800
+review/profileName: kp
+review/text: Name: Sinister Minister	Date: 05/31/2008	Mode: Bottle	Source: Tasting, Noog Four-O		Appearance: black, wispy tan head, 	Aroma: roased malt aroma with sweet fruity esters, 	Flavor: rich roasted and dark chocolate flavor, lots of sweet fruity esters, light balancing bitterness, 		Aroma: 7/10; Appearance: 6/10; Flavor: 7/10; Palate: 6/10; Overall: 13/20	Rating: 3.3/5.0Drinkability: 7/10	Score: **+/4
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1212537600
+review/profileName: puzzl
+review/text: Bottle shared by EDA. Very vegetal, simple sugars, watermelon, kind of interesting and complex. Pours like fizzy soda pop. Crunchy, chewy, lettuce flavor, very dry, a touch of belgian yeast. Not bad.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1212537600
+review/profileName: Suttree
+review/text: Pours brownish reddish black. Grapey, coffee-y, chocolatey aromas at first. Nice conglomerarion of flavors, very toasty and crisp - some coffee, again, some smokey flavors, some spicy notes. Fairly quaffable, too. Sampled at Noogfest 4.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 11/20
+review/time: 1212451200
+review/profileName: shp555
+review/text: Pours a brown color with an off white head.  Aroma is malty, caramel, some roast, chocolate, and some earthy hops.  Flavor is malty, caramel, roast, and an earthy finish.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1212364800
+review/profileName: beerguy101
+review/text: Tasted at Noogfest 4.0 (2008). This Belgian Ale pours a medium black color from a 750ml bottle. Small sized white foamy head. The aroma is roasted malt, yeasty and dark fruit. A medium to light bodied Belgian Ale. The malts are chocolate and toffee. The hops are earthy. Lots of flavors going on here, some roasted malts and some smoke as well. Mouthfeel is full. Finish is clean and smooth. Aftertaste is slightly bitter.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 2/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1212278400
+review/profileName: alexanderj
+review/text: Bottle picked up in South Bend; poured a rich, dark brown with a small to medium off white head.  Aroma of dark fruit, banana, yeast, roasted malt and chocolate.  Was pretty thin and a bit watery.  Flavor reminded me of a black lager, with some spice, nuts and a general earthiness.  Easily drinkable, but it just didnt come together that well.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1212278400
+review/profileName: JohnC
+review/text: Thanks to heemer for sharing at noogfest 08. A black pour with a nice aroma and some good flavors.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1209168000
+review/profileName: Taverner
+review/text: A fairly good Belgian. Full of flavor, whether it be from the hops (theres a lot of them) or from the malts ( this runs high). Its a decent Belgian.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1207008000
+review/profileName: MoDog
+review/text: Poured from a 22oz bottle and served in a tulip.  This beer poured an almost black with some mahogany highlights and a one-finger thick head of tan foam that quickly faded into a thin cap.  The aroma of the beer was made up of chocolate, dark fruits, and some earthy, fruity yeast esthers as well.  The flavor of the beer consisted of spicy yeast, chocolate, plums, raisins, and a hint of smoke.  The mouthfeel was medium-bodied with a decent amount of crisp, aggressive carbonation.  Not bad.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 5/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1206921600
+review/profileName: Optigon
+review/text: Pours black with a fine white head. Aroma is rather sweet and yeasty. Moderate mouth feel with spicy, chocolate and caramel notes. Decent beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 2/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1206835200
+review/profileName: Kevster
+review/text: 22 oz. bomber: Pours a dark brown/almost black cola color with a fizzy carbonated head that diminishes in the blink of an eye. Roasted aroma has hints of liquorice, and dark fruits. Flavor his sweet and spicy that tingles the thin mouthfeel. I did find it very refreshing and good. I was just disappointed with the appearance since it literally looked like I was drinking a flat Coke or Pepsi with no ice in my pint glass.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 9/10
+review/overall: 14/20
+review/time: 1206748800
+review/profileName: Acknud
+review/text: Very nice.  There should be a category for black ales.  Pours black with minimal rapidly dissipating head.  Taste is sharp with notes of roasted malt, earthy notes and floral hops.  Very good ale and would make for a frequent drink.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1206662400
+review/profileName: goldtwins
+review/text: Poured a clear dark red-brown color with an off-white head.  Chalky roasted malt with some phenoles, ash and hops all thrown in.  Very light roasted sweet malt.  Hint of chocolate.  Light-medium body.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1206403200
+review/profileName: hotstuff
+review/text: Bottle.Small tan head that mostly diminished, spotty lacing, transparent, carbonation observed, and a brown hue with a red tint. The nose was malty, roasty, licorice, lightly spicy, dark fruits, and some roastiness. The flavor was malty, lightyly roasty, lightly spicy,some dark fruits, and some smokiness towards the end.Tingly mouthfeel and medium in body.Quaffable, easy to drink and an interesting beer to rate.Worthy of a try.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1205712000
+review/profileName: beastiefan2k
+review/text: From MI2CA, thanks for going through all the effort to find this for me, a trade that was months in the making.  Pours a dark brown, almost black color.   Aroma is what I was hoping for, new and different.  There is an orange/licorice spice coming out, not sure what it is but its but its not overbearing, just there.   Taste is light dark biscuit with light sweet earthiness to it.  Very easy drinking and has none of the typical Belgian yeast dominance. I think its very quaffable with its low bitterness.  Its a nice obscure style and I wish I could try more like this.22oz bomber, Rodenbach smaller tulip glass.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1205625600
+review/profileName: JoeMcPhee
+review/text: UPDATED: JUN 7, 2008 2007 bottle shared by beastiefan2k.  Deep brown beer, thin fast fading head.  Aroma is lightly licoricey with a light plumminess and a soft grapey vineousness.  Lean dark malts, but not a lot of roast.  Lightly spicy with a little bit of apple sweetness.  Pretty decent brew. 	7 3 7 3 14	Bottle shared by eyedrinkale.  Brownish black with a light brown head.  Sweet and slightly toasty aroam.  A bit of light corianderish spiciness and some sweet nutty/chocolatey malts.  Lightly spicy and yeasty with a bit of molasses on the back.  Chewy and a bit of lightly leathery flavour as well.  Quite a tasty brew.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1205539200
+review/profileName: golubj
+review/text: Shared, thanks to beastiefan2k.  Brown pour with reddish hint.  The aroma has some dark fruit, sweet malt, and candy sugar.  The flavor starts with lightly roasted malt, with sugar and floral / earthy spices.  Interesting beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1205539200
+review/profileName: notalush
+review/text: Thanks to beastiefan2k for sharing - cloudy dark red beer, with a moderate lacing - aroma of dark fruit, chocolate, spices, some oxidation - there a bit of oxidation in the flavor, too, along with hard to place spices, but the flavor seems focused around this earthy, vegetal quality that I couldnt quite get into - a wee bit of nutty character - the spices become quite warming in the finish - a little thin, but an interesting beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1204934400
+review/profileName: GMCC2181
+review/text: Thanks STFUN for this one. Color was black with a red tint. Smelled of dark fruits and spices. Taste is toffee, small amount of chocolate, and fruits spices. Texture is light, not watery though, with some carbonation.  Like josh said almost a wine beer. Different but good. Thanks again josh.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1204934400
+review/profileName: eaglefan538
+review/text: Bottle shared by GMCC2181. Pour was brown to black w/ some reddish hues to it too (when tilted). The head was 1cm and had good retention, steady bubbles rising to the surface. The aroma was coriander spices, oranges, light yeast, some dark fruits. The flavor followed the aroma, nice fruity esters, phenolic spicing, coriander, oranges, mixed dark fruits, and light chocolate and faint smoke/roast in the aftertaste. This sucker had some nice flavors going on, and the only knock was the light (filtered?) mouthfeel combined with seemingly high artificial carbonation. Fix up the latter, and weve got ourselves a very fine beer here - enjoyable as is, though. Thanks, Gabe, for sharing!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1204761600
+review/profileName: Cletus
+review/text: Bottle courtesy of stfun.  Pours dark brown with a dissipating white head.  Smells of tea, some caramel, hints of nuttiness.  Tastes of chocolate, some spice, molasses, fruity hints, earthy.  Interesting.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1204070400
+review/profileName: SpudClampDawg
+review/text: 22 oz bottle: Pours like coffee, deep black core with dark brown highlights around the rim of the glass.  The head starts healthy, but settles into a skim after a few sips.  The nose really reminds me of a brown ale - notes of toffee, flat caramel and semi-sweet chocolate are abound.  The belgian yeast adds some light, fruity esthers that add an interesting dimension.  The body is chewy with an onslaught of sweet malts.  Notes of caramel and baked brown initially hit the tongue.  The yeast takes on a bigger role here, adding deep fruits, overripe banana, plums and more.  Drinks well and has an interesting complexity.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 12/20
+review/time: 1201996800
+review/profileName: TheBeerOrg
+review/text: Pours near black with ruby hues and a mostly receding tan foamy head. Taste is toffee, light chocolate, phenolic fruits, cherries, and spice. Mouthfeel is medium to full with lush carbonation. I dont know why this is considered a traditional ale, its pretty much a Belgian-style stout, except for the serious shortage of yeast character.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1201824000
+review/profileName: pantanap
+review/text: bomber thanks to immy.....pours deep dark brown with frothy yet thin off-white head.....aroma mostly made up of dark fruits, some banana, and other sweet malts.  dont notice too much chocolate or roast....flavors of sweet malt, a little caramel with some dark fruit and pepper accents. carbonation is lively and mouthfeel was a little thin.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1201392000
+review/profileName: tjthresh
+review/text: 22 ounce bottle.  Pours mostly black with some ruby highlights when held to light.  Slim off white head.  I smell floral hops, berries, bubble gum,  and some banana.  Pretty much taste the same thing.  A little bit of clove flavor as well.  Medium body.  High carbonation.  Dry finish.  Just an okay beer.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1201392000
+review/profileName: bdigital
+review/text: Bottle:  Pours a dark ruby-tinted amber with no head.  Roasted malt, sweet bread dough and some subtle chocolate notes in the nose.  Dry, bread dough flavor which ended up being much sweeter than expected.  Has a nice belgian yeast taste to it.  Not much in the way of body on this but still drinkable.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1200700800
+review/profileName: IrishBoy
+review/text: Bomber from BBB63; Nose of rye and vanilla; Dark brown with a medium beige head; flavor of bourbon, caramel, and peppery spiciness. I love the flavors but not quite enough complexity for a bigger rating!
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 15/20
+review/time: 1200700800
+review/profileName: Odeed
+review/text: (sample from irishboy)dark brown with red and light brown highlights.not much head.i picked up belgian yeast,vanilla,dark fruit,rye,andsome hops.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 17/20
+review/time: 1200355200
+review/profileName: StFun
+review/text: UPDATED: JAN 5, 2009 good palate and aroma. dark dark beer. i expected it to be thick and creamy, but was surprised by the light and crispness. no tracing or head. flavor was sharp, but not bitter, and smooth throughout.  taste of grapes floating around. almost like a wine-beer, if that makes any sense.
+
+beer/name: Barley Island Sinister Minister Belgian Black Ale
+beer/beerId: 77833
+beer/brewerId: 3228
+beer/ABV: 6.7
+beer/style: Traditional Ale
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1198972800
+review/profileName: shrubber85
+review/text: Bottle.  Cocoa, iced coffee, and malt aroma.  Dark brown with a thin head.  Raisin and toffee malt flavor with a light licorice finish.  Fairly solid Belgian ale.
+
+beer/name: Barley Island Goldilocks Belgian Blond
+beer/beerId: 125204
+beer/brewerId: 3228
+beer/ABV: 7
+beer/style: Belgian Ale
+review/appearance: 3/5
+review/aroma: 4/10
+review/palate: 3/5
+review/taste: 4/10
+review/overall: 8/20
+review/time: 1281225600
+review/profileName: Block
+review/text: Had nearly 10 of their beers and this was by far my least favorite. A golden pour with nearly no head. Aroma and flavor is extremely light. This beer was very ordinary. Light pale ale qualities.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 17/20
+review/time: 1225238400
+review/profileName: adamlangolf
+review/text: Another quality session IPA.  The lowest ABV of any IPA I would buy for regular consumption.  Tasty..but could be improved upon a little bit.  A brand new batch was just made. Im with the guy who thinks Chinook...I love the grapefruit taste in this beer.  Mad Anthony India Pale Ale is 100% Chinook so that might explain why I like Barley quite well.  Ill ask Mike at Barley and report back with reviews on their full line.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1223251200
+review/profileName: GG
+review/text: Received in a trade with mmm///beer, so thanks bro.  The beer was quite nice actually, with enough hops to satisfy this West Coast hop head.  No it wasnt a flat out assault on the senses, but subtley has its place and it had a place in this beer.		The beer poured out a clear, medium/dark amber color with a 2-finger light tan head.  Aroma was mostly citrusy, slightly vegetative, a bit astringent, with a light toasted malt angle.  Flavor had notes of citrus, a bit iced tea to it, some minor malt sweetness but the thing that suprised me at how dry it was, which really seemed to amplify the hoppage.  Nice beer!
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1220659200
+review/profileName: mar
+review/text: bottle thanks to mmm///beer.  deep ruby color with a 1 finger cream head.  great hoppy, citrusy and slight spicy scent.  good thickness and a mild hop flavor that isnt bitter.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1220227200
+review/profileName: jcwattsrugger
+review/text: on tap-pours a light tan head that laces and amber color.  Aroma is northwest hops-grapefruit.  Taste is sweet northwest hops-grapefruit/slight bitter, some medium malt.  	*@Indiana Beerfest-on cask-pours a white ring for a head and hazy gold color.  Aroma is pine-hops (Chinook?), some medium malt.  Taste is resin/pine-hops (Chinook?), some medium malt.  Minimum carbonation.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1219968000
+review/profileName: Snojerk321
+review/text: Bottle via trade with mmm///beer.  This brew pours a thick, hazy orange with a continual slow bubbling and a modest light head. The aroma is dominated by the hops, grapefruit and a sharp floral scent, with some sweet malt seeping through. The mouth feel is thick and fizzy, tickling the tongue. No definitive malt flavor shines through, but its sweetness adds some balance to the citric, earthy hop bitterness that takes over the taste. Nice bitter finish. Pretty good stuff.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1219622400
+review/profileName: CaptainCougar
+review/text: Pours a transparent bright copper orange with a spotty-lacing off-white head.  Aroma of sweet toasty caramel malts with a touch of resiny, piny hops.  Starts with good fullness and sweet crystal maltiness with a decent balance of piny bittering and flavor hops.  Finishes with nice residual sweetness and a crisp bitterness.  Certainly more on the maltier side of IPAs, but I like it.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 4/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 15/20
+review/time: 1216944000
+review/profileName: drfabulous
+review/text: Pretty malty for an IPA. Lingering bitter taste and dry mouth follow. Maybe a beer trying to hard? Settles oddly in your belly.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 14/20
+review/time: 1216771200
+review/profileName: mmmbeer
+review/text: 12 oz. poured into shaker (purchased at Liquor Barn- Louisville, KY)- poured transparent orange/amber color, small off white head formed and quietly bubbled away with some lacing, low carbonation.  Aroma of floral hops, citrus, and malt.  Hits the mouth with a low-medium body, malt comes in at first but quickly transforms into hops that strike the back on the tongue.  Finish has a tendency to drop off, sharply.  Its welcome in my fridge anytime.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1216684800
+review/profileName: timmydent
+review/text: Pint at the brewpub.  Dark copper with heavy hops on the nose.  Nice hop bite in the flavor with a fairly short clean finish.  Decent I.P.A.  	P.S. One of my favorite movies!
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1216512000
+review/profileName: DWestrick
+review/text: bottle.  decent IPA.  good hop flavor...not overly strong but pretty smooth.  Id call this average overall
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1215734400
+review/profileName: tjthresh
+review/text: On tap at the brewpub.  I think this was being served from the beer engine.  Pour was dark amber with a good off white head.  The aroma and flavor are both very strong with citrus hops.  The flavor was even kind of gooey.  Medium body with an appropriate amount of carbonation.  Dry finish.  Really a nice beer.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1215302400
+review/profileName: alexsdad06
+review/text: 12 oz. bottle.  Pours a slightly hazy dark amber color with a dense beige head.  The aroma is orange citrus, moderately sweet caramel malt, and a touch of pineapple.  The flavor has a good bit of caramel malt to balance the citrusy hop bitterness.  This one shows good balance and judging by the scores is a little underappreciated IMHO.  Smooth and easy to drink with a medium/full body.  A very solid IPA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1215129600
+review/profileName: kwoeltje
+review/text: (bottle) copper with nice head. Citrus/floral aroma. Flavor is citrus/floral hops with caramel malt.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 12/20
+review/time: 1214697600
+review/profileName: csbosox
+review/text: 12oz bottle. Lots of malt, quite possibly lots of caramel malts because it comes off as overly sweet even with the large amount of resiny hops. The hop bitterness is there, but the flavor and aroma contribution seems minimal. Big mouthfeel, lots of carbonation. Not the way I like my IPAs.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1213488000
+review/profileName: 502Flavors
+review/text: 12 oz bottle into shaker.  The aroma is dominated by floral and citrus hops while the flavor is mostly dominated by grapefruit hops.  It is smooth and sweet with just the right bite.  Medium bodied on the palate.  Overall: Not much to say here except that this beer is underrated and delicious IMO.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1213056000
+review/profileName: Gregis
+review/text: Bottle purchased at Corral Liquors, in Granite City, IL. Pours a cloudy copper with two fingers of frothy, ecru head that laces well. The aroma is a slightly musky blend of floral, citric and lightly earthy hops over pale malt. On the light side of medium-bodied, the palate is slightly grainy with a bitter, resinous hop finish. Toasted malt with a solid hit of floral and faint citric hops, it finishes dry and bitter. This is a decent brew, but its certainly not among my favorite IPAs.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 5/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 11/20
+review/time: 1212710400
+review/profileName: tedovertu
+review/text: Bottle,  Heavy hoppy aroma and taste.  Grapefruit and orange peel flavors shine through.  Decent frothy off white head with decent lacing.  Huge floaties with a medium amber color. Hoppy bitter initial flavor that carries over to the end.  Medium bodied with a rather dry texture.  Medium carbonation.  An average IPA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1212537600
+review/profileName: psycho11
+review/text: Nice white frothy head with sediment floating in the glass. Amber/orange color. Smells and tastes very hoppy and very bitter at the end. Pretty good stuff.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 16/20
+review/time: 1211846400
+review/profileName: jdmhawk
+review/text: orange in color with a dirty white head, citrus and caramel aroma, flavor is of citrus and has the perfect amount of hops.  great ipa
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 14/20
+review/time: 1210896000
+review/profileName: KingpinIPA
+review/text: Thanks to Stfun.  Cloudy coper color. Smell of hops, malt, light citrus, orange peal and some lemon grass.  Taste of a big malt background with pine, hops, orange zest and decent dry bitterness.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 2/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1209081600
+review/profileName: ThaBobfather
+review/text: I typically dont enjoy IPAs, however, this flavor was not a bitter as most IPAs. It smells and looks good. Not as strong as Id expect, but a good smell. The flavor was delicious, however, it clearly is not the flavor of an IPA. I really dont enjoy how it stays on my tounge, it feels coated with bitterness. I was impressed with this beer from the standpoint that it tastes, smells, and looks good. However, it is not quite correct for an IPA. Also, it doesnt sit on my palate well. Overall, a very good beginners IPA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1207872000
+review/profileName: Boutip
+review/text: Bottle courtesy of Indybigtom: Poured a cloudy orangey color ale with a nice foamy head with OK retention and minimal lacing. Aroma of bitter dry hops is dominating with some light caramel malt. Taste is also dominated by some dry bitter hops with no floral or citrus notes and some very light caramel malt. Body is quite full with some good carbonation.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1207699200
+review/profileName: IrishBoy
+review/text: 12 oz bottle from acknud; thanks!!! Nose of lemony hops, light malt, and a background fruitiness; cloudy orange with a big straw head, heavily lacing the glass; flavor has moderate hop bitterness, with a light caramel malt background and some light lemony bitterness for a finish!
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1207699200
+review/profileName: JPDIPSO
+review/text: Clear light copper color with a tall lasting ecru head. Pale malt with earthy hops undertones. Some citric hops in the background with a sweeter tint, oranges and rudy red grapefruit. The scents seem a bit thin with no real depth. Lots of citrus flavors with tang and just a hint of butterscotch. Finish is lightly sharp with some pine tar and biting citric pith.LInger has a touch of malt and caramel to help smooth things out. I find this closer to an APA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1207008000
+review/profileName: Cletus
+review/text: Bottle courtesy of stfun.  Pours copper with a white head.  Smells of oranges, dough, some perfume.  Tastes of light bitterness, some molasses, a touch of resin, hints of spice.  Enjoyable.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1205971200
+review/profileName: 3fourths
+review/text: Bottle.  Tinny orange in the nose, fruity, herbal, minty even.  Taste is somewhat clean pils malt but has a vegetal staleness, and hop charachter is mild: mint leaves, navel oranges, lemon, floral flavors, a little bit astringent and sharp at times.  Decent overall.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 5/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1205107200
+review/profileName: TheBeerOrg
+review/text: Pours dark orangish amber with a mostly receding wispy tan head. Aroma of citrus, grapefruit. Taste is citrus, bready, crackery malt, toasted grains, grapefruit. Full bodied, resinous with lush carbonation. Pretty enjoyable IPA, not aggressively bitter.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1204848000
+review/profileName: StFun
+review/text: Pretty good offering from Barley Island. Not the best IPA Ive ever had, but its different from most of the average ones, which is good. Pours a really nice amber color, with a perfect head. Lots of carbination bubbles. Very piney aroma and flavor, nice balance of citrus, and a little malt mixed in. Bitterness on the back end, with a metallic aftertaste (which I didnt care for). A little too sticky, but a good local brew.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 2/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 13/20
+review/time: 1204329600
+review/profileName: BlackOut
+review/text: Pours solid orange color, decent head and lots of chunks floating around as well. Head dispersed rather quickly though. Kinda sour and too bitter for my tasting, glad I didnt buy the 6pack of this.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 2/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1203811200
+review/profileName: CP
+review/text: Solid IPA.  Has a more orange aftertaste than many IPAs I have had.  Not too hoppy at all.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 9/10
+review/overall: 17/20
+review/time: 1203811200
+review/profileName: Unique69crazy
+review/text: Nice strong hoppy flavor. Pours a nice dark citrus colour, along with a good fresh aroma. Not too much bad to say with particular type, go out and buy one you hop-heads!
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1203292800
+review/profileName: wheninhell
+review/text: clear amber with a decent but fairly loose white head that settles into a thin film quickly. aroma grapefruit and light pine. bittersweet grapefruit and pine flavor with light nutty notes. dry bitter grapefruit finish. medium body. moderate carbonation. not bad but not that great.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1202428800
+review/profileName: tomthompson89
+review/text: yellow amber color kinda chunky yeast floating around, big HUGE frothy head mainly sweet caremel malt nose, taste is bitter hops pine notes definate reminds me of Churchkeys west coast. Intresting and refreshing beer.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 4/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 12/20
+review/time: 1201132800
+review/profileName: mwelsh13
+review/text: 12oz bottle courtesy of Acknud. Earthy aroma.  For a beer that touts an intense hop aroma, this one did not deliver.  A bit nutty even.  Very little hop aroma.  Amber and orange color.  Nice fluffy white head that stuck around.  Grassy hop flavor.   Not overally bitter like most American IPAs are. There was an off aftertaste.  I could not put my finger on it.  I would call this an APA not IPA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 5/5
+review/aroma: 10/10
+review/palate: 5/5
+review/taste: 10/10
+review/overall: 20/20
+review/time: 1200787200
+review/profileName: Doverduo
+review/text: IPA is always my beer of choice.  Barely Island Barfly has the best aroma and flavor of all that I have sampled.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 5/10
+review/overall: 11/20
+review/time: 1199577600
+review/profileName: tupalev
+review/text: Bottle shared with Hogtown Harry and Blankboy, Harrys bottle.  Odd aroma - some alcohol, some hops, but I dont know - weird.    Dark orange, small white head.  Odd taste - burnt malt, some hops, sweetened tea.  Man, I did not like this one at all. Maybe it was off, but the bottle was fresh enough from one of Harrys recent trades I think.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 2/5
+review/taste: 5/10
+review/overall: 10/20
+review/time: 1199404800
+review/profileName: HogTownHarry
+review/text: Bottle (12oz).  Shared with tupalev, my bottle.  Hazy amber, average frothy off-white head.  Interesting aroma, initially sweet nutmeat or cocoa -then leafy, UK-style hops.  Taste - dont like it at all - sour dishwater is really all I can think of, vague hops, but not good enough to care much.  Average body, sour aftertaste - bleh.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 2/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1198886400
+review/profileName: heemer77
+review/text: Bottle purchased at Corral in Granite City, IL. This poured with lots of floaters in the medium amber colored body. A light khaki head was on top. The aroma was basic oranges and bread crust. The taste was some grapefruit and a little bread crust. A nice woody finish. A decent IPA.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 2/5
+review/aroma: 5/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1198713600
+review/profileName: MrRain
+review/text: 12oz bottle poured in a shaker.  I found this bottle in a small liquor store in Granite City, Illinois.  I bought it as part of a pick-n-pack combination.  BIB IPA pours murky orange with large pulp and a medium semi-soapy looking head.  The combination of the pulp and the murkiness is a bit disconcerting if youve never had an unfiltered beer.  Even with experience the darker beer color doesnt look appetizing.  The nose is mostly hop-generated citrus with a very faint malt tone.  The body is oily and surprisingly thick for an IPA but it works well.   The hop bitterness is quite prevalent, pushing most other flavors to the side.  A touch of heather or clover peeks through though.  This beer isnt bad but the bitterness is more reminiscent of an imperial IPA than a straight IPA.  This is probably a local favorite but falls just a little shy when compared to some of the American great IPAs.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1197849600
+review/profileName: SDbruboy
+review/text: 12 oz. bottle, courtesy of DrMatt - thanks for this midwest IPA!  Pours hazy medium amber with a small whitish head that leaves spotty lace.  Mild aroma primarily of toasty malts and floral hop notes with a hint of orange.  Flavor comes across more strongly, toasty malts again, hints of caramel provide a counterpoint to the floral, piney and grapefruit rind hoppiness, finishing with astringent spicy tingle.  Medium to full body and prickly carbonation.  Quite enjoyable.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1195603200
+review/profileName: TechMyst
+review/text: Didnt care for the first one, but the drinkablity was actually quite high.  Good quality brew.  A little on the malty side.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 15/20
+review/time: 1193529600
+review/profileName: JLAudio
+review/text: Poured a nice orange/copper color with nice head and lacing.  Aromas were average, really had to sniff hard to get all of them.  Tasted pretty well balanced, with a nice malt profile mixed with a decent hop presence.  The intensity wasnt really there, as it lacked the punch I like.  It was drinkable.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 13/20
+review/time: 1192838400
+review/profileName: goldtwins
+review/text: Poured an orange amber color with a small white head.  The aroma and flavor have mostly citrus hops but some earthy ones as well.  Caramel malt controls the hops.  Light to medium bodied.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1191456000
+review/profileName: xmarcnolanx
+review/text: Pours cognac-colored with a nice white head.  Aroma is of citrus (oranges mostly).  Taste is bitter with a nice maltiness in the finish.  Not a great IPA by style, but not bad either.  Just very simple.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 6/10
+review/overall: 15/20
+review/time: 1190160000
+review/profileName: Ty5592
+review/text: Glowing orange color with huge off white head. Fresh hoppy aroma. The taste was the same. Smooth on the palate. Massive lacing.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 2/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 12/20
+review/time: 1189555200
+review/profileName: Ughsmash
+review/text: Bottled.  Poured hazy medium orange with lots of chunky sediment and a short, well-retained cap of off-white head.. nice lacing as it descended.  The aroma picked up orange and other citrusy hoppage along with floral notes and some biscuity malts.. more-or-less malt-based and intriguing with the combination of elements.  The flavor had a sweet, tacky caramel base that was rum (or more accurately some other raw booze) accented.. mild to moderate bitterness of the citrus variety.. pine notes on the finish.. a bit rough all-around.  Medium-bodied and too sharp at several points on the palate.. could have perhaps used more hoppage to help the balance.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 13/20
+review/time: 1188604800
+review/profileName: kp
+review/text: Date: 06/06/2007	Mode: Bottle	Source: Roadtrip		clear orange, fine dirty white head, drippy lace, 	sweet caramel malt aroma with light citrus hops, 	lots of well balanced sweet caramel malt flavor, plenty of citrus hop flavor to balance the sweet malt, light bitter finish, 		Aroma: 6/10; Appearance: 7/10; Flavor: 6/10; Palate: 6/10; Overall: 13/20	Rating: 3.2/5.0Drinkability: 8/10	Score: **+/4
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 7/10
+review/palate: 4/5
+review/taste: 8/10
+review/overall: 15/20
+review/time: 1188518400
+review/profileName: mnurda
+review/text: Grat tasting IPA.  Lots of fruit flavour. Well hopped. Winner all around.  Cant wait to have it agin
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 8/10
+review/palate: 3/5
+review/taste: 8/10
+review/overall: 16/20
+review/time: 1187913600
+review/profileName: MoDog
+review/text: Poured from a 12oz bottle into a shaker.  This beer poured a dark brownish copper color with a foamy beige head that slowly faded.  Some uneven, sticky lace was left around the glass.  The aroma consisted of a big citrus/grapefruit presence followed up by a nice caramel malt backbone.  The flavor was super hoppy, with sweet grapefruit flavors giving way to the roasted caramel, and finishing just slightly bitter.  The mouthfeel was medium-bodied with minimal carbonation.  This is an excellent brew, done in the same vein as Alpha King.  Very tasty, and vastly underappreciated.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1186963200
+review/profileName: jrhammonds
+review/text: Pours a beautiful orange amber with a one inch off-white head. Aroma is a great balance of floral/herbal, citrus hops with a touch of caramal malt. Not as strong as it could be. Flavor is surprisingly balanced--great floral front hop (slight grapefruit--not too much), a complex nutty, caramel malt background, followed by a moderate bittering finish.  Not too bitter; not too sweet. Mouthfeel, for this size beer, is has a pleasant unexpected stickyness. I concur with many that this makes a great session IPA in an age of big beers.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 7/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1186790400
+review/profileName: blankboy
+review/text: Bottle courtesy of lewis13. Pours a cloudy orange-amber with a kajillion tiny little floaties and an average size off-white head. Aroma has a nice balance of citrus and pine hops and sweet malt. Simple flavour of hops and caramel malt, a bit of fruit and a quick bitter finish -- easy to drink and refreshing. Medium bodied. Good stuff.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 2/5
+review/taste: 7/10
+review/overall: 14/20
+review/time: 1185494400
+review/profileName: jcr
+review/text: Hazy copper pour with foamy off-white head. The beer looks thick and feels thick and has a decent balance between bittering hops and sweet malts. Citrus aromas of grapefruit with notes of pine and flowers. Some caramel in the background. The flavor is moderately bitter and lightly sweet. Thick mouthfeel and lively carbonation. Finish is bitter. A bit too full-bodied for my taste in an IPA, but certainly ejoyable enough nonetheless.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 5/10
+review/palate: 3/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1185408000
+review/profileName: LinusStick
+review/text: Nice IPA I got from my Secret Santa. Thanks man! Aroma was kind of weak but what was there was all hops. Pour was a beautiful dark burnt orange with a nice 1 finger off white head. Taste was mostly citrus hops with a little malt in the background, but this is definately a hops oriented IPA. Not too strong or overbearing however, just a good sessionable IPA which is rare nowadays.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 3/5
+review/aroma: 6/10
+review/palate: 4/5
+review/taste: 7/10
+review/overall: 15/20
+review/time: 1185148800
+review/profileName: piscator34
+review/text: Bottled sample via mnurda. Orange in colour with a bit of haze and some floaties. Average carbonation. Aromas of citrusy hops and roasted malt. A bit of vanilla sweet malt in the mouth, with the grapefruit-orange hop elements showing up mid-sip. Theres a nice black pepper bitterness on the back finish, which sharpens up the mouthfeel nicely. Could use a bit more hop presence on the nose, but a pretty good IPA otherwise.
+
+beer/name: Barley Island Barfly IPA
+beer/beerId: 58511
+beer/brewerId: 3228
+beer/ABV: 6.5
+beer/style: India Pale Ale &#40;IPA&#41;
+review/appearance: 4/5
+review/aroma: 6/10
+review/palate: 3/5
+review/taste: 6/10
+review/overall: 14/20
+review/time: 1184716800
+review/profileName: tennisjoel
+review/text: Pour is amber orange with a somewhat thick head for the style.  Aroma is vegetal, herbs, and some grapefruit hops.  Flavor is more on the malty side with some bitterness in the finish.  Not the smoothest IPA, but then again, most IPAs arent supposed to be smooth.  Very average within its class, which makes sense given its style pct.   Kind of an interesting side note.  My wife picked a 6 pack of this up thinking my friend liked IPAs.  I told her that one of the few styles my buddy didnt care for were IPAs (which meant score more for me).  Yey!
