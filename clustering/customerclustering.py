@@ -8,5 +8,5 @@ class RateBeerCustomerClusterCreator:
     Rate Beer customers for customer segmentation.
     """
 
-    def __init__(self):
+    def __init__(self, training_file):
         pass

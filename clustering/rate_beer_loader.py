@@ -60,7 +60,7 @@ class RateBeerLoader:
     def get_rate_beer_raw(self):
         return self._rate_beer_processed
 
-    def _load_rate_beer(self, ) -> List[Dict[str, Union[Dict[str, str]]]]:
+    def load_rate_beer(self, ) -> List[Dict[str, Union[Dict[str, str]]]]:
         """
         Loads and transforms raw data into a processable form following the article framework,
         with the following steps:
@@ -198,7 +198,7 @@ class RateBeerLoaderPykeen(RateBeerLoader):
             print("Found a previous save")
         else:
             print("Beginning a new read.")
-            self._rate_beer_processed = self._load_rate_beer()
+            self._rate_beer_processed = self.load_rate_beer()
             self._head_relationship_tail_representation = self._create_hrt_list()
             self._write_temporary_training_file()
 
