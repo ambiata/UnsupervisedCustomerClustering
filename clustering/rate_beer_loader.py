@@ -120,7 +120,7 @@ class RateBeerLoader:
                     if key == "profileName":
                         self.all_reviewers[value] += 1
                         if self._limit_reviews_per_reviewer is not None \
-                                and self.all_reviewers[value] >= self._limit_reviews_per_reviewer:
+                                and self.all_reviewers[value] > self._limit_reviews_per_reviewer:
                             reviewers_to_remove.add(value)
 
                     current_rating["review"][key] = value
