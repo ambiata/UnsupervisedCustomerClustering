@@ -1,13 +1,11 @@
 """
 Loads in files
 """
-from random import choices
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, Union, List, Tuple
-from multiprocessing import Pool
+from typing import Dict, Union, List, Tuple, Optional, Any, Set
+from collections import Counter
 
-import numpy as np
 from pykeen.triples import TriplesFactory
 
 _relationship_to_id_mapper = {
@@ -49,8 +47,11 @@ def _remove_beer_specific_details(rate_beer):
 
 
 class RateBeerLoader:
-    def __init__(self, file_location: Union[Path, str]):
-        self.all_reviewers = set()
+    def __init__(self,
+                 file_location: Union[Path, str],
+                 limit_reviews_per_reviewer: Optional[int] = None):
+        self._limit_reviews_per_reviewer = limit_reviews_per_reviewer
+        self.all_reviewers = Counter()
         self._file_location = Path(file_location)
         self._rate_beer_processed = []
 
@@ -60,7 +61,7 @@ class RateBeerLoader:
     def get_rate_beer_raw(self):
         return self._rate_beer_processed
 
-    def load_rate_beer(self, ) -> List[Dict[str, Union[Dict[str, str]]]]:
+    def load_rate_beer(self) -> List[Dict[str, Union[Dict[str, str]]]]:
         """
         Loads and transforms raw data into a processable form following the article framework,
         with the following steps:
@@ -74,13 +75,15 @@ class RateBeerLoader:
         Returns:
             The processed rate_beer.
         """
-        raw_rate_beer_dict = self._load_rate_beer_raw()
+        raw_rate_beer_dict, to_remove = self._process_rate_beer_file()
+        if self._limit_reviews_per_reviewer is not None and to_remove:
+            raw_rate_beer_dict = self._remove_profiles(raw_rate_beer_dict, to_remove)
         rate_beer = _create_date_details(raw_rate_beer_dict)
         rate_beer = _create_review_id(rate_beer)
         rate_beer = self._connect_reviews_using_id(rate_beer)
         return rate_beer
 
-    def _load_rate_beer_raw(self) -> List[Dict[str, Dict[str, str]]]:
+    def _process_rate_beer_file(self) -> tuple[list[dict[str, dict[Any, Any]]], set[str]]:
         """
         Loads in the rate beer file and fields.
 
@@ -92,6 +95,7 @@ class RateBeerLoader:
         path_to_file = Path(self._file_location)
         reviews = []
         current_rating = {"review": {}, "beer": {}}
+        reviewers_to_remove = set()
         with path_to_file.open(mode="r",
                                encoding="utf-8",
                                errors="replace") as rate_beer_file:
@@ -114,12 +118,15 @@ class RateBeerLoader:
                     if key == "text":
                         continue
                     if key == "profileName":
-                        self.all_reviewers.add(value)
+                        self.all_reviewers[value] += 1
+                        if self._limit_reviews_per_reviewer is not None \
+                                and self.all_reviewers[value] >= self._limit_reviews_per_reviewer:
+                            reviewers_to_remove.add(value)
 
                     current_rating["review"][key] = value
             if len(current_rating["review"]) > 0:
                 reviews.append(current_rating)
-        return reviews
+        return reviews, reviewers_to_remove
 
     def _connect_reviews_using_id(self, rate_beer):
         """
@@ -133,7 +140,7 @@ class RateBeerLoader:
             A sorted list of the reviews with a "succeeds" and "precedes" value.
         """
         rate_beer = rate_beer.copy()
-        reviewers_most_recent_review = {reviewer: [] for reviewer in self.all_reviewers}
+        reviewers_most_recent_review = {reviewer: [] for reviewer in self.all_reviewers.keys()}
 
         # Obtain a dict of the index of all the reviews performed by each reviewer (consumer)
         for i in range(len(rate_beer)):
@@ -158,6 +165,15 @@ class RateBeerLoader:
                     index_of_next_review = review_indices[i + 1]
                     rate_beer[index_of_review]["precedes"] = str(rate_beer[index_of_next_review]["id"])
         return rate_beer
+
+    def _remove_profiles(self, ratings: List[Dict[str, Dict[str, str]]], reviewers_to_remove: Set[str]):
+        to_return = []
+        for rating in ratings:
+            if rating["review"]["profileName"] not in reviewers_to_remove:
+                to_return.append(rating)
+        for reviewer in reviewers_to_remove:
+            del self.all_reviewers[reviewer]
+        return to_return
 
 
 def write_to_tsv(head_relationship_tail_representation: List[Tuple[str, str, str]]) -> Path:
@@ -188,8 +204,11 @@ class RateBeerLoaderPykeen(RateBeerLoader):
     doesn't cause issues if you attempt to try Tensorflow approach.
     """
 
-    def __init__(self, file_location: Union[Path, str], checkpoint_name: str, accept_previous_saves: bool = True):
-        super().__init__(file_location)
+    def __init__(self, file_location: Union[Path, str],
+                 checkpoint_name: str,
+                 accept_previous_saves: bool = True,
+                 limit_reviews_per_reviewer: Optional[int] = None):
+        super().__init__(file_location, limit_reviews_per_reviewer=limit_reviews_per_reviewer)
 
         self.checkpoint_name = checkpoint_name
         self._temporary_training_location = Path("training_file.tsv").absolute()
@@ -340,7 +359,7 @@ def _add_triples(key, list_of_head_rel_tail, review_id, review):
     Args:
         key:
         list_of_head_rel_tail: The list to add the triple to.
-        review_id: The Id of the review to add to.
+        review_id: The id of the review to add to.
         review: The review.
 
     Returns:
@@ -349,8 +368,10 @@ def _add_triples(key, list_of_head_rel_tail, review_id, review):
         if field == "style":
             beer_id = "bee" + review["beer"]["beerId"]
             list_of_head_rel_tail.append([beer_id, field, value])
-            continue
-        list_of_head_rel_tail.append([review_id, field, field[:3] + value])
+        elif field == "profileName":
+            list_of_head_rel_tail.append([review_id, field, value])
+        else:
+            list_of_head_rel_tail.append([review_id, field, field[:3] + value])
     return list_of_head_rel_tail
 
 
